@@ -1,4 +1,4 @@
-package com.rebamei.rebameiserver.controller;
+package com.rebamei.rebameiserver.pojo;
 
 public class Poi {
   public String name;
